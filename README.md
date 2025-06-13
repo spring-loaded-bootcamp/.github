@@ -24,12 +24,12 @@ To maximize our time together and ensure a smooth experience, please complete th
 ## 🗓️ Workshop Agenda (Overview)
 We'll move at a brisk pace, building piece by piece:
 
-Hour 1: Setup Verification, Core Application & Redis Foundations
-Hour 2: Centralized Configuration & Live Updates (Config Server, RabbitMQ)
-Hour 3: Advanced Routing with Spring Cloud Gateway & Canary Deployments
-Hour 4: Modulith, Externalized Events & Spring AI Integration
-Hour 5: Observability (Loki, Grafana, Tracing) & Real-time Metrics
-Hour 6: Spring Security (OAuth2), "Call Home" Mechanism & Wrap-up
+- Setup Verification, Core Application & Redis Foundations
+- Centralized Configuration & Live Updates (Config Server, RabbitMQ)
+- Advanced Routing with Spring Cloud Gateway & Canary Deployments
+- Modulith, Externalized Events & Spring AI Integration
+- Observability (Loki, Grafana, Tracing) & Real-time Metrics
+- Spring Security (OAuth2), "Call Home" Mechanism & Wrap-up
 
 ## 🙋‍♀️ Questions?
 Use this GitHub project to ask questions or report issues.
