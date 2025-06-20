@@ -36,3 +36,5 @@ We'll move at a brisk pace, building piece by piece:
 Use this GitHub project to ask questions or report issues.
 
 We can't wait to build amazing things with you! See you there!
+
+## [Get Started!](https://github.com/spring-loaded-bootcamp/workshop)
