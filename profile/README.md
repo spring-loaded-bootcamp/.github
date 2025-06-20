@@ -19,12 +19,13 @@ By the end of this full-day intensive session, you'll have built a robust applic
 Imagine an app where people can submit short messages, comments, or votes on a topic you define. Your "Social Pulse Tracker" will collect these inputs, analyze their sentiment using AI, store them in Redis, and report live metrics back to a central dashboard. You'll expose your unique tracker via Ngrok and invite your social media contacts to interact, making the workshop truly memorable!
 
 ## 🛠️ Get Ready: Pre-Workshop Setup
-To maximize our time together and ensure a smooth experience, please complete the setup steps in the dedicated (prerequisites)[]. This will ensure you have all the necessary tools installed and configured.
+To maximize our time together and ensure a smooth experience, please complete the setup steps in the dedicated [prerequisites](https://github.com/spring-loaded-bootcamp/workshop-prerequisites). This will ensure you have all the necessary tools installed and configured.
 
 ## 🗓️ Workshop Agenda (Overview)
 We'll move at a brisk pace, building piece by piece:
 
-- Setup Verification, Core Application & Redis Foundations
+- Setup Verification, Simple application, Actuator
+- Building Images, Deploying with Docker, Exposing to the world with NGrok
 - Centralized Configuration & Live Updates (Config Server, RabbitMQ)
 - Advanced Routing with Spring Cloud Gateway & Canary Deployments
 - Modulith, Externalized Events & Spring AI Integration
